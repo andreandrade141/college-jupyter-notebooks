@@ -44,3 +44,10 @@ solvefor4 = f.subs(x, a).evalf()
 print("RESOLVE F(4)")
 # display(solvefor4)
 print(solvefor4)
+
+# Exercício 5:
+
+df = sp.diff(f, x)
+
+print("DERIVADA EM X DE F:")
+print(df)
