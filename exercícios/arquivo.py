@@ -1,5 +1,6 @@
 """
     ANDRÉ LUÍS SEBASTIÃO ANDRADE - 104004
+    BRENA FREITAS DE OLIVEIRA - 94858
 """
 import numpy as np
 
